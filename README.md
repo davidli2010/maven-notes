@@ -65,7 +65,7 @@ This document is only for self-learning, **DO NOT USE** for any commercial purpo
   - 10.2 资源过滤
   - 10.3 Maven Profile
 - 11 [向中央仓库发布软件包](11-向中央仓库发布软件包.md)
-  - [GPG key generation: Not enough random bytes available.](11-01-GPG没有足够的随机字节生成key.md)
+  - [GPG key generation: Not enough random bytes available.](11-01-GPG没有足够的随机字节生成Key.md)
 - 12 [Maven常用插件](12-Maven常用插件.md)
   - exec-maven-plugin
   - maven-dependency-plugin
